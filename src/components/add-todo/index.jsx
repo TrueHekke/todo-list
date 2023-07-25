@@ -14,7 +14,6 @@ export const AddTodo = () => {
 
   const handleAddTodo = () => {
     dispatch(addTodo(value));
-    console.log(addTodo(value));
     setValue("");
   };
 
