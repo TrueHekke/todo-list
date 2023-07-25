@@ -1,3 +1,3 @@
-# react-redux-toolkit
+Its my version redux To Do List
 
-Example of app using redux + redux toolkit.
+
