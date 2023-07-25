@@ -1,0 +1,21 @@
+.addButton {
+  margin-left: 0.5rem;
+  height: 60px;
+  width: 144px;
+  color: bisque;
+  background-color: black;
+  order: 5px outset #780000;
+  border-radius: 25px;
+  font-size: 24px;
+}
+
+.addInput{
+  height: 60px;
+  width: 340px;
+  color: bisque;
+  background-color: black;
+  border: 5px outset #780000;
+  border-radius: 25px;
+  font-size: 20px;
+  padding-left: 30px;
+}

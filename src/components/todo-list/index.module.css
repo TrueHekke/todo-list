@@ -1,0 +1,16 @@
+.main{
+  display: flex;
+  flex-direction: row;
+  gap: 64px;
+}
+
+.list {
+  margin-top: 1rem;
+  text-align: left;
+  list-style: none;
+}
+
+.title{
+  color:bisque;
+  text-shadow: 2px 3px 4px #e30707;
+}
